@@ -1,0 +1,3 @@
+supabase
+pycryptodome
+python_dotenv

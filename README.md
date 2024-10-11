@@ -1,1 +1,2 @@
-# Cypher-Password-Manager
+# Cypher
+Password Manager
